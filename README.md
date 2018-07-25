@@ -7,10 +7,11 @@ Note:- Use this only for reference
 # Programming Assignments
   Course 1: Neural Networks and Deep Learning
 
-    Week 2 - PA 1 - Logistic Regression with a Neural Network mindset
-    Week 3 - PA 2 - Planar data classification with one hidden layer
-    Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶
-    Week 4 - PA 4 - Deep Neural Network for Image Classification: Application
+    Week 2 - Assignment 1 [Python Basics With Numpy] (../Neural_Networks_and_Deep_Learning/week2/Python+Basics+With+Numpy+v3.ipynb)
+    Week 2 - PA 2 - Logistic Regression with a Neural Network mindset
+    Week 3 - PA 1 - Planar data classification with one hidden layer
+    Week 4 - PA 1 - Building your Deep Neural Network: Step by Step¶
+    Week 4 - PA 2 - Deep Neural Network for Image Classification: Application
   Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
     Week 1 - PA 1 - Initialization
