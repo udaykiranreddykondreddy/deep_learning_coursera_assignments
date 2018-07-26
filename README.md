@@ -11,7 +11,7 @@ Note:- Use this only for reference
    -  Week 2 - Assignment 2 - [Logistic Regression with a Neural Network mindset](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Neural_Networks_and_Deep_Learning/week2/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
    -  Week 3 - Assignment 1 - [Planar data classification with one hidden layer](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Neural_Networks_and_Deep_Learning/week3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)
    -  Week 4 - Assignment 1 - [Building your Deep Neural Network: Step by Step](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Neural_Networks_and_Deep_Learning/week4/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
-   -  Week 4 - Assignment 2 - Deep Neural Network for Image Classification: Application
+   -  Week 4 - Assignment 2 -[Deep Neural Network for Image Classification: Application](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Neural_Networks_and_Deep_Learning/week4/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
    
   ## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
