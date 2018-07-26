@@ -22,7 +22,7 @@ Note:- Use this only for reference
    - 5 Week 3 - Assignment 1 - TensorFlow Tutorial
   ## Course 3: Structuring Machine Learning Projects
 
-    There is no PA for this course.
+   - There is no Assignments for this course.
   ## Course 4: Convolutional Neural Networks
 
    - 1 Week 1 - Assignment 1 - Convolutional Model: step by step
