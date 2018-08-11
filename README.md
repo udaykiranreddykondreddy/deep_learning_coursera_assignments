@@ -17,7 +17,7 @@ Note:- Use this only for reference
 
    -  Week 1 - Assignment 1 - [Initialization](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Improving%20Deep%20Neural%20Networks/week1/Initialization.ipynb)
    -  Week 1 - Assignment 2 - [Regularization](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Improving%20Deep%20Neural%20Networks/week1/Regularization%2B-%2Bv2.ipynb)
-   -  Week 1 - Assignment 3 - Gradient Checking
+   -  Week 1 - Assignment 3 - [Gradient Checking](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Improving%20Deep%20Neural%20Networks/week1/Gradient%2BChecking%2Bv1.ipynb)
    -  Week 2 - Assignment 1 - Optimization Methods
    -  Week 3 - Assignment 1 - TensorFlow Tutorial
   ## Course 3: Structuring Machine Learning Projects
