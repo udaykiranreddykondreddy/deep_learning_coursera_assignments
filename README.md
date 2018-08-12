@@ -27,9 +27,16 @@ Note:- Use this only for reference
 
    -  Week 1 - Assignment 1 - Convolutional Model: step by step
    -  Week 1 - Assignment 2 - Convolutional Model: application
-   -  Week 2 - Assignment 1 - Keras - Tutorial - Happy House
-   -  Week 2 - Assignment 2 - Residual Networks
+   -  Week 2 - Assignment 1 - Residual Networks
+   -  Week 3 - Assignment 1 - Car Detection with YOLOv2
+   -  Week 4 - Assignment 1 - Art Generation with Neural Style Transfer
+   -  Week 4 - Assignment 2 - Face Recognition For The Happy House
   ## Course 5: Sequence Models
 
    -  Week 1 - Assignment 1 - Building a Recurrent Neural Network - Step by Step
-   -  Week 1 - Assignment 2 - Character level language model - Dinosaurus land
+   -  Week 1 - Assignment 2 - Dinosaur Island - Character-Level Language Modeling
+   -  Week 1 - Assignment 3 - Jazz improvisation with LSTM
+   -  Week 2 - Assignment 1 - Operations on word vectors - Debiasing
+   -  Week 2 - Assignment 2 - Emojify
+   -  Week 3 - Assignment 1 - Neural Machine Translation with Attention
+   -  Week 3 - Assignment 2 - Trigger word detection
