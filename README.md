@@ -25,8 +25,8 @@ Note:- Use this only for reference
    - There is no Assignments for this course.
   ## Course 4: Convolutional Neural Networks
 
-   -  Week 1 - Assignment 1 - Convolutional Model: step by step
-   -  Week 1 - Assignment 2 - Convolutional Model: application
+   -  Week 1 - Assignment 1 - [Convolutional Model: step by step](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Convolutional%20Neural%20Networks%20Prev/week1/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+   -  Week 1 - Assignment 2 - [Convolutional Model: application](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Convolutional%20Neural%20Networks%20Prev/week1/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
    -  Week 2 - Assignment 1 - Residual Networks
    -  Week 3 - Assignment 1 - Car Detection with YOLOv2
    -  Week 4 - Assignment 1 - Art Generation with Neural Style Transfer
