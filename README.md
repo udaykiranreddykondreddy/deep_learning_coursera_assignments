@@ -30,8 +30,8 @@ Note:- Use this only for reference
    -  Week 2 - Assignment 0 - [Keras tutorial(optional)](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Convolutional%20Neural%20Networks%20Prev/week2/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
    -  Week 2 - Assignment 1 - [Residual Networks](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Convolutional%20Neural%20Networks%20Prev/week2/Residual%2BNetworks%2B-%2Bv2.ipynb)
    -  Week 3 - Assignment 1 - Car Detection with YOLOv2
-   -  Week 4 - Assignment 1 - Art Generation with Neural Style Transfer
-   -  Week 4 - Assignment 2 - Face Recognition For The Happy House
+   -  Week 4 - Assignment 1 - [Art Generation with Neural Style Transfer](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Convolutional%20Neural%20Networks%20Prev/week4/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+   -  Week 4 - Assignment 2 - [Face Recognition For The Happy House](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Convolutional%20Neural%20Networks%20Prev/week4/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
   ## Course 5: Sequence Models
 
    -  Week 1 - Assignment 1 - Building a Recurrent Neural Network - Step by Step
