@@ -40,4 +40,4 @@ Note:- Use this only for reference
    -  Week 2 - Assignment 1 - [Operations on word vectors - Debiasing](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Sequence%20Models/week2/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
    -  Week 2 - Assignment 2 - [Emojify](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Sequence%20Models/week2/Emojify%2B-%2Bv2.ipynb)
    -  Week 3 - Assignment 1 - [Neural Machine Translation with Attention](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Sequence%20Models/week3/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
-   -  Week 3 - Assignment 2 - Trigger word detection
+   -  Week 3 - Assignment 2 - [Trigger word detection](https://github.com/udaykiranreddykondreddy/deep_learning_coursera_assignments/blob/master/Sequence%20Models/week3/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
